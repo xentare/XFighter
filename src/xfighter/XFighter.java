@@ -26,8 +26,6 @@ import xfighter.tasks.WalkToFightArea;
 @ScriptMeta(name = "XFighter", desc="Fights NPCs", developer="Xentare", category = ScriptCategory.COMBAT)
 public class XFighter extends TaskScript implements RenderListener, TargetListener, AnimationListener {
 
-    //sujen@amadamus.com
-    //kalle123
     //x:2918 y:3269
     private static final Task[] TASKS = {new Eat(), new Loot(), new Fight(), new WalkToFightArea(), new ActivateRun(),new WalkToBank(), new DoBank()};
     private static XFighterPaint paint;

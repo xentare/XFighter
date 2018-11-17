@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/Juha/NetBeansProjects/XFighter/src/xfighter/tasks/Fight.java</file>
+            <file>file:/Users/Juha/NetBeansProjects/XFighter/src/xfighter/tasks/Loot.java</file>
+            <file>file:/Users/Juha/NetBeansProjects/XFighter/src/xfighter/GUI/XFighterGUI.java</file>
+            <file>file:/Users/Juha/NetBeansProjects/XFighter/src/xfighter/tasks/Eat.java</file>
+            <file>file:/Users/Juha/NetBeansProjects/XFighter/src/xfighter/tasks/ChangeCombatStyle.java</file>
+            <file>file:/Users/Juha/NetBeansProjects/XFighter/src/xfighter/tasks/WalkToFightArea.java</file>
+            <file>file:/Users/Juha/NetBeansProjects/XFighter/src/xfighter/PlayerAnimationTimer.java</file>
+            <file>file:/Users/Juha/NetBeansProjects/XFighter/src/xfighter/tasks/WalkToBank.java</file>
+            <file>file:/Users/Juha/NetBeansProjects/XFighter/src/xfighter/Settings.java</file>
+            <file>file:/Users/Juha/NetBeansProjects/XFighter/src/xfighter/XFighterPaint.java</file>
+            <file>file:/Users/Juha/NetBeansProjects/XFighter/src/xfighter/SaveSettings.java</file>
+            <file>file:/Users/Juha/NetBeansProjects/XFighter/src/xfighter/XFighter.java</file>
+            <file>file:/Users/Juha/NetBeansProjects/XFighter/src/xfighter/tasks/DoBank.java</file>
+        </group>
+    </open-files>
+</project-private>
